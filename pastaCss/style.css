@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0px;
+}
+
+section, footer {
+
+padding: 30px 20px;
+
+
+}
+
+
+@media (min-width:768px) {
+
+    section, footer {
+
+        padding: 40px 50px;
+        
+        
+        }
+        
+
+}
+
